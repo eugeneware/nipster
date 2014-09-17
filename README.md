@@ -1,8 +1,8 @@
 # nipster
 
-Search for npm modules with this command line client to [nipster.com](http://nipster.com) 
+Search for npm modules with this command line client to [nipser.com](http://nipstr.com) 
 
-An alternative to `npm search` based on the excellent web-site [nipster.com](http://nipster.com).
+An alternative to `npm search` based on the excellent web-site [nipstr.com](http://nipstr.com).
 
 ## Installation
 

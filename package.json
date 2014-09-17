@@ -4,7 +4,8 @@
   "description": "Search npm modules with this command line client to nipster.com",
   "main": "index.js",
   "bin": {
-    "nipster": "./nipster.js"
+    "nipster": "./nipster.js",
+    "nipstr": "./nipster.js"
   },
   "repository": {
     "type": "git",
