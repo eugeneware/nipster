@@ -1,0 +1,24 @@
+{
+  "name": "nipster",
+  "version": "1.0.0",
+  "description": "Search npm modules with this command line client to nipster.com",
+  "main": "index.js",
+  "bin": {
+    "nipster": "./nipster.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eugeneware/nipster"
+  },
+  "keywords": ["nipster","search","module","modules","cli","node.js","terminal"],
+  "author": "Eugene Ware <eugene@noblesamurai.com>",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/eugeneware/nipster/issues"
+  },
+  "dependencies": {
+    "sprintf": "^0.1.4",
+    "mkdirp": "^0.5.0",
+    "request": "^2.42.0"
+  }
+}
